@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @CyberN1nja
+- 👋 Hi, I’m Muhammad Rangga Ridjali
 - 👀 I’m interested in Shoftware Developer (Fullstack developer)
 - 🌱 I’m currently learning Cloud computing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @mhmrang925_ on instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 # Halo semua! 
 

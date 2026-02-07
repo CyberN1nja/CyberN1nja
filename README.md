@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Rangga Ridjali
 - 👀 I’m interested in Shoftware Developer and Cloud Computing 
 - 🌱 I’m currently learning Cloud computing 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 You can reach me on [Instagram](https://www.instagram.com/mhmrang925_/)
 
 # Haii folks

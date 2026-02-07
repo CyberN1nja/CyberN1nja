@@ -6,7 +6,7 @@
 
 # Haii folks
 
-Let me introduce my self, im **Muhammad Rangga**.<br>
+Let me introduce my self, im **Muhammad Rangga Ridjali**.<br>
 
 I want to be **Shoftware Developer | Cloud Architect** (https://github.com/CyberN1nja/).<br>
 

@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Muhammad Rangga Ridjali
-- 👀 I’m interested in Shoftware Developer (Fullstack developer)
+- 👀 I’m interested in Shoftware Developer and Cloud Computing 
 - 🌱 I’m currently learning Cloud computing 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @mhmrang925_ on instagram
+- 📫 You can reach me on [Instagram](https://www.instagram.com/mhmrang925_/)
 
-# Halo semua! 
+# Haii folks
 
-Perkenalkan nama saya **Muhammad Rangga**.<br>
+Let me introduce my self, im **Muhammad Rangga**.<br>
 
-Saya seorang **Shoftware Developer** [Freelance](https://github.com/CyberN1nja/).<br>
+I want to be **Shoftware Developer | Cloud Architect** (https://github.com/CyberN1nja/).<br>
 
-Dengan pengalaman dalam berbagai bahasa pemrograman seperti Python, JavaScript, dan PHP, saya telah bekerja pada berbagai proyek, mulai dari pengembangan aplikasi web, mobile, hingga integrasi sistem backend. Saya juga terbiasa menggunakan framework modern seperti React, Django, dan Node.js untuk menciptakan aplikasi yang responsif dan scalable. Selain itu, saya memiliki pengalaman dalam kolaborasi tim menggunakan Git, serta menerapkan metode pengembangan berbasis Agile. Saya selalu terbuka untuk tantangan baru dan berkomitmen untuk terus belajar dan mengembangkan keterampilan saya di dunia teknologi.
+I am a graduate of the Informatics Program at Institut Teknologi Nasional Bandung with a GPA of 3.25, focusing on backend development and cloud computing. I have a strong interest in Node.js, JavaScript, Express.js, REST API development, Firebase, MySQL, and collaborative development using GitHub. I have experience deploying containerized applications using Docker on Google Cloud Run and working with Cloud SQL, Cloud Storage, Cloud Build, and CLI-based automation for environment configuration and management. I have 4 months of experience as a Cloud Engineer (Independent Study Cohort) at Bangkit Academy, led by Google, Tokopedia, Gojek, & Traveloka, 4 months as an IoT Laboratory Assistant, and 6 months as a Backend Developer at Lembang Agri Bandung, with direct involvement in API development and on-site sensor and database integration.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rangga-a43458207/)ku ya.
+If you are insterested lets get to know each other, follow my [Linkedin](www.linkedin.com/in/mhmdanggarjl)
